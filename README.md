@@ -14,6 +14,16 @@ The goal of Carvia is to provide a smooth and reliable online platform for renti
 
 ---
 
+## 📸 Screenshots
+
+<p float="left">
+  <img src="https://i.ibb.co.com/7dqgXkp3/Screenshot-2025-08-08-210401.png" width="300" />
+  <img src="https://i.ibb.co.com/M5RzfVbD/Screenshot-2025-08-08-210457.png" width="300" />
+  <img src="https://i.ibb.co.com/Kc80F0Jg/Screenshot-2025-08-09-042003.png" width="300" />
+</p>
+
+
+
 ## ✨ Key Features
 
 - 🔐 **Firebase Authentication** (Email/Password & Google Login)
