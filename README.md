@@ -53,6 +53,21 @@ The goal of Carvia is to provide a smooth and reliable online platform for renti
 - **dotenv**
 - **cookie-parser**
 - **jsonwebtoken (JWT)**
+- 
+---
+
+## To run locally
+
+git clone https://github.com/naafiisaa/carvia-client.git
+
+cd carvia-client
+
+npm install
+
+Create a .env file and fill in your Firebase config:
+
+npm run dev
+
 
 
 
